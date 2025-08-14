@@ -28,7 +28,7 @@
 
 ---
 
-#### 2. [Internet Programmierung – Shop Management System](https://github.com/farisarf/InternetProgrammierung)
+#### 2. [Internet Programmierung – Shop Management System](https://github.com/farisarf/ip-sose25)
 *Ein Ladenverwaltungssystem mit Lagerverwaltung, Mitarbeiterverwaltung und integrierter Kasse – inklusive Online-Zahlung über Stripe.*  
 **Tech-Stack:** Docker, Git, MongoDB  
 **Backend:** Java (Spring Boot)  
@@ -41,3 +41,11 @@
 **Tech-Stack:** Java, Spring Boot, Docker, Git, MySQL, Postman
 
 ---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="mailto:faris.arfaoui2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deine.email%40example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
