@@ -46,6 +46,6 @@
 
 <p align="center">
   <a href="mailto:faris.arfaoui2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deine.email%40example.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-faris.arfaoui2002%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
