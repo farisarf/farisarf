@@ -20,7 +20,7 @@
 
 ---
 
-### 🎓 University Projects
+### 🎓 Hochschul Projekte
 
 #### 1. [OOP-PSTA](https://github.com/farisarf/oop-psta)
 *Generiert aus einer Liste von Städten mit Wetterdaten automatisch eine statische HTML-Website mit einer Startseite und individuellen Unterseiten für jede Stadt.*  
@@ -41,6 +41,16 @@
 **Tech-Stack:** Java, Spring Boot, Docker, Git, MySQL, Postman
 
 ---
+
+### Private Projekte:
+
+#### 1. ToDo-App:
+*Schreibe eine ToDo-Liste, speichere Punkte, bearbeite sie oder lösche sie.*
+**Tech-Stack:** NextJS
+
+#### 2. Wetter-App:
+*Wetter-App, die es dem Nutzer erlaubt, entweder über die aktuelle Standort-Geolocation oder durch Eingabe einer Stadt den aktuellen Wetterbericht (Temperatur, Zustand, Luftfeuchtigkeit, Wind) von der OpenWeatherMap-API abzurufen und anzuzeigen.*
+**Tech-Stack:** NextJS, Axios
 
 ### 📬 Contact
 
