@@ -14,3 +14,20 @@
 
 ### Repository-Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farisarf&theme=radical)](https://github.com/farisarf/github-readme-stats)
+
+
+### Uni-Projects:
+
+### 1. OOP-PSTA:
+**Der Code erstellt aus einer Liste von Städten mit Wetterdaten automatisch eine einfache statische HTML-Website mit einer Startseite und individuellen Unterseiten für jede Stadt.**
+Tech-Stack: Java
+
+### 2. Internet Programmierung:
+**Ein Ladenverwaltungssystem mit Lager- und Mitarbeiterverwaltung und Kasse inklusive Bezahlung über Stripe.**
+Tech-Stack: Docker, Git, MongoDb
+- Backend: Java, Spring Boot
+- Frontend: NextJs
+
+### 3. Verteilte Verarbeitung:
+**
+Tech-Stack: Java, Spring Boot, Docker, Git, MySQL, Postman
