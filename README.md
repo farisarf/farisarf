@@ -20,39 +20,37 @@
 
 ---
 
-### 🎓 Hochschul Projekte
+### 🎓 Hochschulprojekte
 
 #### 1. [OOP-PSTA](https://github.com/farisarf/oop-psta)
-*Generiert aus einer Liste von Städten mit Wetterdaten automatisch eine statische HTML-Website mit einer Startseite und individuellen Unterseiten für jede Stadt.*  
+*Generiert aus einer Liste von Städten mit Wetterdaten automatisch eine statische HTML-Website mit Startseite und individuellen Unterseiten für jede Stadt.*  
 **Tech-Stack:** Java
 
----
-
 #### 2. [Internet Programmierung – Shop Management System](https://github.com/farisarf/ip-sose25)
-*Ein Ladenverwaltungssystem mit Lagerverwaltung, Mitarbeiterverwaltung und integrierter Kasse – inklusive Online-Zahlung über Stripe.*  
+*Ladenverwaltungssystem mit Lagerverwaltung, Mitarbeiterverwaltung und integrierter Kasse – inklusive Online-Zahlung über Stripe.*  
 **Tech-Stack:** Docker, Git, MongoDB  
 **Backend:** Java (Spring Boot)  
 **Frontend:** Next.js
 
----
-
 #### 3. [Verteilte Verarbeitung – Document Importer & Processor](https://github.com/farisarf/vv-inf-sose25)
-*Automatisiert den manuellen Vergleich von Angebots- und Rechnungsdokumenten mithilfe von KI, um zu prüfen, ob alle Angebotspositionen korrekt in der Rechnung aufgeführt sind.*  
+*Automatisiert den Vergleich von Angebots- und Rechnungsdokumenten mithilfe von KI, um zu prüfen, ob alle Angebotspositionen korrekt in der Rechnung enthalten sind.*  
 **Tech-Stack:** Java, Spring Boot, Docker, Git, MySQL, Postman
 
 ---
 
-### Private Projekte:
+### 💻 Private Projekte
 
-#### 1. ToDo-App:
-*Schreibe eine ToDo-Liste, speichere Punkte, bearbeite sie oder lösche sie.*
-**Tech-Stack:** NextJS
+#### 1. [ToDo-App](https://github.com/farisarf/todo_app)
+*Einfache ToDo-Liste zum Erstellen, Bearbeiten und Löschen von Aufgaben.*  
+**Tech-Stack:** Next.js
 
-#### 2. Wetter-App:
-*Wetter-App, die es dem Nutzer erlaubt, entweder über die aktuelle Standort-Geolocation oder durch Eingabe einer Stadt den aktuellen Wetterbericht (Temperatur, Zustand, Luftfeuchtigkeit, Wind) von der OpenWeatherMap-API abzurufen und anzuzeigen.*
-**Tech-Stack:** NextJS, Axios
+#### 2. [Wetter-App](https://github.com/farisarf/weather_app)
+*App, die das aktuelle Wetter über Geolocation oder Stadteingabe abruft und Temperatur, Zustand, Luftfeuchtigkeit und Wind von der OpenWeatherMap-API anzeigt.*  
+**Tech-Stack:** Next.js, Axios
 
-### 📬 Contact
+---
+
+### 📬 Kontakt
 
 <p align="center">
   <a href="mailto:faris.arfaoui2002@gmail.com">
