@@ -22,7 +22,7 @@
 
 ### 🎓 Hochschulprojekte
 
-#### 1. [OOP-PSTA](https://github.com/farisarf/oop-psta)
+#### 1. [Objektorientierte Programmierung-PSTA](https://github.com/farisarf/oop-psta)
 *Generiert aus einer Liste von Städten mit Wetterdaten automatisch eine statische HTML-Website mit Startseite und individuellen Unterseiten für jede Stadt.*  
 **Tech-Stack:** Java
 
