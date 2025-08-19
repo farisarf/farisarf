@@ -48,6 +48,10 @@
 *App, die das aktuelle Wetter über Geolocation oder Stadteingabe abruft und Temperatur, Zustand, Luftfeuchtigkeit und Wind von der OpenWeatherMap-API anzeigt.*  
 **Tech-Stack:** Next.js, Axios
 
+#### 3. [Portfolio (https://portfolio-five-phi-66.vercel.app)](https://github.com/farisarf/portfolio)
+*Portfolio-Website über mich.*
+**Tech-Stack:** Next.js, Motion, (Three.js), Nodemailer
+
 ---
 
 ### 📬 Kontakt
