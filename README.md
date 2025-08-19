@@ -3,6 +3,8 @@
 
 ##### Ambitionierter Full-Stack-Software- und Webentwickler mit Fokus auf Entwicklung funktionaler, visuell ansprechender und nutzerzentrierter Anwendungen.
 
+##### Portfolio: [Link zum Portfolio](https://portfolio-five-phi-66.vercel.app)
+
 ---
 
 ### 🛠 Tech-Stack
@@ -24,7 +26,7 @@
 
 #### 1. [Objektorientierte Programmierung-PSTA](https://github.com/farisarf/oop-psta)
 *Generiert aus einer Liste von Städten mit Wetterdaten automatisch eine statische HTML-Website mit Startseite und individuellen Unterseiten für jede Stadt.*  
-**Tech-Stack:** Java
+**Tech-Stack:** Javahttps://github.com/farisarf/farisarf/blob/main/README.md
 
 #### 2. [Internet Programmierung – Shop Management System](https://github.com/farisarf/ip-sose25)
 *Ladenverwaltungssystem mit Lagerverwaltung, Mitarbeiterverwaltung und integrierter Kasse – inklusive Online-Zahlung über Stripe.*  
@@ -49,9 +51,27 @@
 **Tech-Stack:** Next.js, Axios
 
 #### 3. [Portfolio](https://github.com/farisarf/portfolio)
-**Website:** [Portfolio](https://portfolio-five-phi-66.vercel.app)
 *Portfolio-Website über mich.*
-**Tech-Stack:** Next.js, Motion, (Three.js), Nodemailer
+**Tech-Stack:** Next.js, Mantine Ui, Motion, (Three.js), Nodemailer
+**Website:** [Portfolio](https://portfolio-five-phi-66.vercel.app)
+
+#### 4. [Lern-App](https://github.com/farisarf/lernapp)
+*Die App ermöglicht das Erstellen, Bearbeiten, Speichern und Anzeigen von Lernlektionen mit verschiedenen Sektionstypen (wie Einführung, Inhalt, Quiz, Medien und Gliederung), wobei alle Daten und Medien über ein Next.js-Frontend und ein Express/MongoDB-Backend verwaltet werden.*
+**Tech-Stack:** HTTP-API (Fetch), Docker
+**Frontend:** Next.js, TypeScript, Mantine Ui, ReactMarkdown
+**Backend:** Express.js, MongoDB, Multer
+
+#### 5. [Haushalt-Organizer](https://github.com/farisarf/haushalt) - *in Bearbeitung*
+*Die App soll Haushaltsgruppen organisieren, Mitglieder verwalten und gemeinsame Aufgaben oder Ressourcen koordinieren.*
+**Tech-Stack:** Docker
+**Frontend:** Next.js
+**Backend:** Node.js, Express.js, MongoDB
+
+#### 6. [Axolife - Social App](https://github.com/farisarf/axolife) - *in Bearbeitung*
+*Die App soll eine Social-Media-Plattform sein, auf der Nutzer Beiträge erstellen, kommentieren, liken und sich registrieren sowie anmelden können.*
+**Tech-Stack:**
+**Frontend:** Next.js, TypeScript, MantineUI, Tailwind CSS, Axios
+**Backend:** Node.js, Express, MongoDB, JWT, Argon2, Multer
 
 ---
 
